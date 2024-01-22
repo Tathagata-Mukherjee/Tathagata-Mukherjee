@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Tathagata Mukherjee</h1>
-<h3 align="center">A passionate developer from Data Science Domain from India</h3>
+<h3 align="center">A passionate developer in Data Science Domain from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tathagata-mukherjee&label=Profile%20views&color=0e75b6&style=flat" alt="tathagata-mukherjee" /> </p>
 
